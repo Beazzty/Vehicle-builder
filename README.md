@@ -10,6 +10,9 @@ Vehicle Builder: Create dream car, find existing one, or check towing/wheelie ca
 
 # Installation
 - Instructions on how to install project
+- git clone 
+- https://github.com/Beazzty/Vehicle-builder.git
+
 
 # Credits
 - Chat GPT
@@ -29,3 +32,4 @@ Vehicle Builder: Create dream car, find existing one, or check towing/wheelie ca
 - Quinn Brown - quinnbrown2004@gmail.com
 
 # Link
+- https://github.com/Beazzty/Vehicle-builder
