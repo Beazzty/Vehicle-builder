@@ -4,6 +4,7 @@ Vehicle Builder: Create dream car, find existing one, or check towing/wheelie ca
 - Table of Contents
 
 - [installation](##installation)
+- [Usage](##Usage)
 - [credits](##credits)
 - [contact](##contact)
 - [Link](##Link)
@@ -12,8 +13,13 @@ Vehicle Builder: Create dream car, find existing one, or check towing/wheelie ca
 - Instructions on how to install project
 - git clone 
 - https://github.com/Beazzty/Vehicle-builder.git
+- cd bootcamp/Challange-8
+- npm install
 
-
+# Usage
+- ```bash
+- Run the project
+- npm start
 # Credits
 - Chat GPT
 - Xpert learning
